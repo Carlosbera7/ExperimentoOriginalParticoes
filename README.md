@@ -60,8 +60,8 @@ weighted avg       0.83      0.84      0.83       567
 ![GraficoOriginalParticoes](https://github.com/user-attachments/assets/22af5312-9a81-40e7-8300-febb130496a4)
 
 ## Estrutura do Repositório
--  [`Scripts/ClassificadorOriginal.py`](https://github.com/Carlosbera7/ExperimentoBaseOriginal/blob/main/Script/ClassificadorOriginal.py): Script principal para executar o experimento.
-- [`Data/`](https://github.com/Carlosbera7/ExperimentoBaseOriginal/tree/main/Data): Pasta contendo o conjunto de dados e o Embeddings GloVe pré-treinados (necessário para execução).
-- [`Execução`](https://ideal-guacamole-gjg979rjvwhw956.github.dev/): O código pode ser executado diretamente no ambiente virtual.
+- [`Scripts/ClassificadorOriginalParticoes.py`](https://github.com/Carlosbera7/ExperimentoOriginalParticoes/blob/main/Script/ClassificadorOriginalParticoes.py): Script principal para executar o experimento.
+- [`Data/`](https://github.com/Carlosbera7/ExperimentoOriginalParticoes/tree/main/Data): Pasta contendo o conjunto de dados e o Embeddings GloVe pré-treinados (necessário para execução).
+- [`Execução`](https://organic-broccoli-rqj9p9696wfwwqx.github.dev/): O código pode ser executado diretamente no ambiente virtual.
 
 
